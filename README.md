@@ -2,16 +2,16 @@
 
 <p><b>My stack:</b>
   <ul>
-    <li>C/C++</li>
-    <li>HTML, CSS</li>
     <li>C#</li>
-    <li>Frameworks and libraries: Qt5, OpenGL, SDL</li>
+    <li>HTML, CSS</li>
+    <li>C/C++</li>
+    <li>Frameworks and libraries: WF, Qt5, OpenGL</li>
   </ul>
 </p>
 
 <p><b>My skills:</b>
   <ul>
-    <li>Linux-target programming</li>
+    <li>Back-end</li>
     <li>Visual programming</li>
     <li>English level: B2</li>
   </ul>
